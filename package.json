@@ -1,17 +1,312 @@
 [
 	{
-		"name"        : "jquery3x",
-		"url"         : "http://code.jquery.com/jquery-3.2.1.js",
-		"description" : "jQuery is a fast, small, and feature-rich JavaScript library"
+		"name": "jquery3x",
+		"url": "http://code.jquery.com/jquery-3.2.1.js",
+		"description": "jQuery is a fast, small, and feature-rich JavaScript library"
 	},
 	{
-		"name"		  : "jquery2x",
-		"url"         : "http://code.jquery.com/jquery-2.2.4.js",
-		"description" : "jQuery is a fast, small, and feature-rich JavaScript library"
+		"name": "jquery2x",
+		"url": "http://code.jquery.com/jquery-2.2.4.js",
+		"description": "jQuery is a fast, small, and feature-rich JavaScript library"
 	},
 	{
-		"name"		  : "jquery1x",
-		"url"         : "http://code.jquery.com/jquery-1.12.4.js",
-		"description" : "jQuery is a fast, small, and feature-rich JavaScript library"
+		"name": "jquery1x",
+		"url": "http://code.jquery.com/jquery-1.12.4.js",
+		"description": "jQuery is a fast, small, and feature-rich JavaScript library"
+	},
+	{
+		"name": "bootstrap3x",
+		"url": "https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip",
+		"description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web"
+	},
+	{
+		"name": "bootstrap2x",
+		"url": "http://getbootstrap.com/2.3.2/assets/bootstrap.zip",
+		"description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web"
+	},
+	{
+		"name": "font-awesome",
+		"url": "http://fontawesome.io/assets/font-awesome-4.7.0.zip",
+		"description": "Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS"
+	},
+	{
+		"name": "animate.css",
+		"url": "https://raw.github.com/daneden/animate.css/master/animate.css",
+		"description": "animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects"
+	},
+	{
+		"name": "zurb-foundation",
+		"url": "http://foundation.zurb.com/sites/download.html/complete",
+		"description": "The most advanced responsive front-end framework in the world"
+	},
+	{
+		"name": "semantic-ui",
+		"url": "https://github.com/Semantic-Org/Semantic-UI-CSS/archive/master.zip",
+		"description": "Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML"
+	},
+	{
+		"name": "normalize",
+		"url": "https://necolas.github.io/normalize.css/7.0.0/normalize.css",
+		"description": "Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing"
+	},
+	{
+		"name": "materialize",
+		"url": "http://materializecss.com/bin/materialize-v0.98.2.zip",
+		"description": "Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform"
+	},
+	{
+		"name": "pure",
+		"url": "https://github.com/yahoo/pure-release/archive/v0.6.2.zip",
+		"description": "A set of small, responsive CSS modules that you can use in every web project"
+	},
+	{
+		"name": "skeleton",
+		"url": "https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip",
+		"description": "A dead simple, responsive boilerplate"
+	},
+	{
+		"name": "ratchet",
+		"url": "https://github.com/twbs/ratchet/archive/v2.0.2.zip",
+		"description": "Build mobile apps with simple HTML‚ CSS‚ and JS components"
+	},
+	{
+		"name": "effeckt.css",
+		"url": "https://codeload.github.com/h5bp/Effeckt.css/zip/master",
+		"description": "Performant CSS transitions & animations"
+	},
+	{
+		"name": "uikit",
+		"url": "https://getuikit.com/download",
+		"description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces"
+	},
+	{
+		"name": "metro-ui-css",
+		"url": "https://github.com/olton/Metro-UI-CSS/archive/master.zip",
+		"description": "The front-end framework for developing projects on the web in Windows Metro Style"
+	},
+	{
+		"name": "hint.css",
+		"url": "https://github.com/chinchang/hint.css/releases",
+		"description": "A pure CSS tooltip library for your lovely websites"
+	},
+	{
+		"name": "blueprint-css",
+		"url": "https://github.com/joshuaclayton/blueprint-css/archive/master.zip",
+		"description": "Blueprint is a CSS framework, which aims to cut down on your development time"
+	},
+	{
+		"name": "topcoats",
+		"url": "https://github.com/topcoat/topcoat/archive/v0.8.0.zip",
+		"description": "CSS for clean and fast web apps"
+	},
+	{
+		"name": "960-grid",
+		"url": "https://github.com/nathansmith/960-Grid-System/archive/master.zip",
+		"description": "The 960 Grid System is an effort to streamline web development workflow by providing commonly used dimensions, based on a width of 960 pixels"
+	},
+	{
+		"name": "meny",
+		"url": "https://codeload.github.com/hakimel/Meny/zip/master",
+		"description": "A three dimensional and space efficient menu"
+	},
+	{
+		"name": "fancyinput",
+		"url": "https://codeload.github.com/yairEO/fancyInput/zip/master",
+		"description": "Makes typing & deleting in input/Textarea fields exciting & fun with CSS3 effects"
+	},
+	{
+		"name": "groundworkcss",
+		"url": "https://github.com/groundworkcss/groundwork/archive/master.zip",
+		"description": "A responsive HTML5, CSS & Javascript framework"
+	},
+	{
+		"name": "preboot",
+		"url": "https://github.com/mdo/preboot/archive/master.zip",
+		"description": "Preboot is a comprehensive and flexible collection of LESS utilities"
+	},
+	{
+		"name": "ink",
+		"url": "https://github.com/sapo/Ink/releases/download/3.1.10/ink-3.1.10.zip",
+		"description": "An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping"
+	},
+	{
+		"name": "toast",
+		"url": "https://raw.githubusercontent.com/daneden/Toast/master/css/grid.css",
+		"description": "An insane grid. You’ve been warned"
+	},
+	{
+		"name": "html-kickstart",
+		"url": "http://www.99lime.com/downloads/",
+		"description": "Ultra–Lean HTML Building Blocks for Rapid Website Production"
+	},
+	{
+		"name": "csswizardry-grids",
+		"url": "https://codeload.github.com/csswizardry/csswizardry-grids/zip/master",
+		"description": "csswizardry-grids is a fully responsive, mobile-first, infinitely nestable, reversible, reorderable, simple to understand, human-friendly, robust grid system."
+	},
+	{
+		"name": "formalize",
+		"url": "http://github.com/nathansmith/formalize/zipball/master",
+		"description": "Teach your forms some manners!"
+	},
+	{
+		"name": "unsemantic",
+		"url": "https://github.com/nathansmith/unsemantic/archive/master.zip",
+		"description": "Fluid grid for mobile, tablet, and desktop."
+	},
+	{
+		"name": "clank",
+		"url": "https://github.com/Wolfr/clank/archive/master.zip",
+		"description": "An open source HTML/CSS framework for prototyping native phone/tablet applications"
+	},
+	{
+		"name": "pygments-css",
+		"url": "https://codeload.github.com/richleland/pygments-css/legacy.zip/master",
+		"description": "Pygments, a Python-based code highlighting tool, comes with a set of builtin styles (not css files) for code highlighting"
+	},
+	{
+		"name": "getbase",
+		"url": "https://github.com/matthewhartman/base/archive/master.zip",
+		"description": "Lightweight and minimal code. Spend less time overriding styles and focus more time on creating beautiful website applications"
+	},
+	{
+		"name": "profoundgrid",
+		"url": "https://github.com/artofrawr/profoundgrid/archive/master.zip",
+		"description": "A responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control"
+	},
+	{
+		"name": "wirefy",
+		"url": "https://codeload.github.com/cjdsie/wirefy/zip/master",
+		"description": "Build intuitive, powerful wireframes for smarter web development"
+	},
+	{
+		"name": "kube-css",
+		"url": "https://codeload.github.com/imperavi/kube/zip/master",
+		"description": "Kube is a web framework for professional developers and designers alike"
+	},
+	{
+		"name": "littlebox",
+		"url": "https://github.com/cmaddux/littlebox/archive/master.zip",
+		"description": "Super simple to implement, CSS-only icons"
+	},
+	{
+		"name": "css-toogle-switch",
+		"url": "https://github.com/ghinda/css-toggle-switch/archive/master.zip",
+		"description": "Accessible CSS toggle switch using standard form controls"
+	},
+	{
+		"name": "kickoff",
+		"url": "https://github.com/TryKickoff/kickoff/archive/master.zip",
+		"description": " A lightweight front-end framework for creating scalable, responsive sites"
+	},
+	{
+		"name": "csscritic",
+		"url": "https://codeload.github.com/cburgmer/csscritic/legacy.zip/master",
+		"description": "A lightweight framework for regression testing of Cascading Style Sheets"
+	},
+	{
+		"name": "clearless",
+		"url": "https://github.com/clearleft/clearless/zipball/master",
+		"description": "A collection of reusable LESS mixins"
+	},
+	{
+		"name": "cascadeframework",
+		"url": "https://codeload.github.com/jslegers/cascadeframework/zip/master",
+		"description": "Although the overall look and feel are most definitely inspired by Twitter Bootstrap, Cascade framework is not just another Bootstrap clone"
+	},
+	{
+		"name": "ingrid",
+		"url": "https://codeload.github.com/robertpiira/ingrid/zip/master",
+		"description": "A fluid CSS layout system"
+	},
+	{
+		"name": "chewing-grid.css",
+		"url": "https://codeload.github.com/tzi/chewing-grid.css/zip/master",
+		"description": "A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries"
+	},
+	{
+		"name": "beautons",
+		"url": "https://raw.github.com/csswizardry/beautons/master/beautons.css",
+		"description": "A beautifully simple button toolkit"
+	},
+	{
+		"name": "pigeon-css",
+		"url": "https://github.com/rowanmanning/pigeon/archive/master.zip",
+		"description": "Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites"
+	},
+	{
+		"name": "blaze-css",
+		"url": "https://codeload.github.com/BlazeCSS/Blaze/zip/master",
+		"description": "Open source modular CSS toolkit providing great structure for building websites quickly"
+	},
+	{
+		"name": "natuive",
+		"url": "https://codeload.github.com/radogado/natuive/zip/gh-pages",
+		"description": "Lightweight, feature-heavy front-end framework"
+	},
+	{
+		"name": "sencss",
+		"url": "https://codeload.github.com/Kilian/sencss/zip/master",
+		"description": "The sensible standards CSS baseline"
+	},
+	{
+		"name": "salsa",
+		"url": "https://github.com/tsi/Salsa/zipball/master",
+		"description": "Syntactically Awesome Layout System"
+	},
+	{
+		"name": "baseweb",
+		"url": "https://github.com/sebnitu/BaseWeb/tree/master/dist",
+		"description": "BaseWeb is a fresh SCSS (Sassy CSS) front-end development tool that can be used as a framework or library"
+	},
+	{
+		"name": "simple.ui",
+		"url": "https://github.com/paranoida/simple-ui/zipball/master",
+		"description": "Nope, it's not another framework. This is a set of the most popular components used in many web applications"
+	},
+	{
+		"name": "xpressio",
+		"url": "https://github.com/dreyacosta/xpressio/archive/master.zip",
+		"description": "Just a small and fast tool to design your website"
+	},
+	{
+		"name": "rocket-propel",
+		"url": "https://codeload.github.com/chrishumboldt/Rocket-Propel/zip/master",
+		"description": "A lightweight SASS mixin library and responsive CSS layout engine"
+	},
+	{
+		"name": "simplestastic",
+		"url": "https://codeload.github.com/mrrocks/simpletastic/zip/master",
+		"description": "Simplestastic is a super lightweight framework written in SASS that makes it super easy create to fluid grids"
+	},
+	{
+		"name": "cascadeframeworklight",
+		"url": "https://codeload.github.com/jslegers/cascadeframeworklight/zip/master",
+		"description": "Cascade Framework gives you a perfect balance between lots of features and a lightweigt footprint"
+	},
+	{
+		"name": "scrollzip",
+		"url": "https://codeload.github.com/tinywall/scrollzip/zip/master",
+		"description": "jQuery plugin to trigger functions when element/content becomes visibile/hidden while scrolling"
+	},
+	{
+		"name": "flexgrid",
+		"url": "https://codeload.github.com/afropolymath/flexgrid/zip/master",
+		"description": "Flexgrid is a flexbox based CSS Layout System. It's simple and easy to use and can be used on it's own or with any other CSS framework"
+	},
+	{
+		"name": "rocket-button",
+		"url": "https://codeload.github.com/chrishumboldt/Rocket-Button/zip/master",
+		"description": "A lightweight, universal button module"
+	},
+	{
+		"name": "amazium",
+		"url": "https://github.com/OwlyStuff/Amazium/releases/latest",
+		"description": "A minimalist CSS framework"
+	},
+	{
+		"name": "awsm.css",
+		"url": "https://github.com/igoradamenko/awsm.css/archive/master.zip",
+		"description": "Simple CSS library for semantic HTML markup"
 	}
 ]

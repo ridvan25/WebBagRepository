@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<packages>
+	<package>
+		<name>jquery3x</name>
+		<url>http://code.jquery.com/jquery-3.2.1.js</url>
+		<description>jQuery is a fast, small, and feature-rich JavaScript library</description>
+		<category>JavaScript</category>
+	</package>
+	<package>
+		<name>jquery2x</name>
+		<url>http://code.jquery.com/jquery-2.2.4.js</url>
+		<description>jQuery is a fast, small, and feature-rich JavaScript library</description>
+		<category>JavaScript</category>
+	</package>
+	<package>
+		<name>jquery1x</name>
+		<url>http://code.jquery.com/jquery-1.12.4.js</url>
+		<description>jQuery is a fast, small, and feature-rich JavaScript library</description>
+		<category>JavaScript</category>
+	</package>
+	<package>
+		<name>bootstrap3x</name>
+		<url>https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip</url>
+		<description>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>bootstrap2x</name>
+		<url>http://getbootstrap.com/2.3.2/assets/bootstrap.zip</url>
+		<description>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>font-awesome</name>
+		<url>http://fontawesome.io/assets/font-awesome-4.7.0.zip</url>
+		<description>Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>animate.css</name>
+		<url>https://raw.github.com/daneden/animate.css/master/animate.css</url>
+		<description>animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>zurb-foundation</name>
+		<url>http://foundation.zurb.com/sites/download.html/complete</url>
+		<description>The most advanced responsive front-end framework in the world</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>semantic-ui</name>
+		<url>https://github.com/Semantic-Org/Semantic-UI-CSS/archive/master.zip</url>
+		<description>Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>normalize</name>
+		<url>https://necolas.github.io/normalize.css/7.0.0/normalize.css</url>
+		<description>Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>materialize</name>
+		<url>http://materializecss.com/bin/materialize-v0.98.2.zip</url>
+		<description>Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>pure</name>
+		<url>https://github.com/yahoo/pure-release/archive/v0.6.2.zip</url>
+		<description>A set of small, responsive CSS modules that you can use in every web project</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>skeleton</name>
+		<url>https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip</url>
+		<description>A dead simple, responsive boilerplate</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>ratchet</name>
+		<url>https://github.com/twbs/ratchet/archive/v2.0.2.zip</url>
+		<description>Build mobile apps with simple HTML‚ CSS‚ and JS components</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>effeckt.css</name>
+		<url>https://codeload.github.com/h5bp/Effeckt.css/zip/master</url>
+		<description>Performant CSS transitions &amp; animations</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>uikit</name>
+		<url>https://getuikit.com/download</url>
+		<description>A lightweight and modular front-end framework for developing fast and powerful web interfaces</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>metro-ui-css</name>
+		<url>https://github.com/olton/Metro-UI-CSS/archive/master.zip</url>
+		<description>The front-end framework for developing projects on the web in Windows Metro Style</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>hint.css</name>
+		<url>https://github.com/chinchang/hint.css/releases</url>
+		<description>A pure CSS tooltip library for your lovely websites</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>blueprint-css</name>
+		<url>https://github.com/joshuaclayton/blueprint-css/archive/master.zip</url>
+		<description>Blueprint is a CSS framework, which aims to cut down on your development time</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>topcoats</name>
+		<url>https://github.com/topcoat/topcoat/archive/v0.8.0.zip</url>
+		<description>CSS for clean and fast web apps</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>960-grid</name>
+		<url>https://github.com/nathansmith/960-Grid-System/archive/master.zip</url>
+		<description>The 960 Grid System is an effort to streamline web development workflow by providing commonly used dimensions, based on a width of 960 pixels</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>meny</name>
+		<url>https://codeload.github.com/hakimel/Meny/zip/master</url>
+		<description>A three dimensional and space efficient menu</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>fancyinput</name>
+		<url>https://codeload.github.com/yairEO/fancyInput/zip/master</url>
+		<description>Makes typing &amp; deleting in input/Textarea fields exciting &amp; fun with CSS3 effects</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>groundworkcss</name>
+		<url>https://github.com/groundworkcss/groundwork/archive/master.zip</url>
+		<description>A responsive HTML5, CSS &amp; Javascript framework</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>preboot</name>
+		<url>https://github.com/mdo/preboot/archive/master.zip</url>
+		<description>Preboot is a comprehensive and flexible collection of LESS utilities</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>ink</name>
+		<url>https://github.com/sapo/Ink/releases/download/3.1.10/ink-3.1.10.zip</url>
+		<description>An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>toast</name>
+		<url>https://raw.githubusercontent.com/daneden/Toast/master/css/grid.css</url>
+		<description>An insane grid. You’ve been warned</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>html-kickstart</name>
+		<url>http://www.99lime.com/downloads/</url>
+		<description>Ultra–Lean HTML Building Blocks for Rapid Website Production</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>csswizardry-grids</name>
+		<url>https://codeload.github.com/csswizardry/csswizardry-grids/zip/master</url>
+		<description>csswizardry-grids is a fully responsive, mobile-first, infinitely nestable, reversible, reorderable, simple to understand, human-friendly, robust grid system.</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>formalize</name>
+		<url>http://github.com/nathansmith/formalize/zipball/master</url>
+		<description>Teach your forms some manners!</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>unsemantic</name>
+		<url>https://github.com/nathansmith/unsemantic/archive/master.zip</url>
+		<description>Fluid grid for mobile, tablet, and desktop</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>clank</name>
+		<url>https://github.com/Wolfr/clank/archive/master.zip</url>
+		<description>An open source HTML/CSS framework for prototyping native phone/tablet applications</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>pygments-css</name>
+		<url>https://codeload.github.com/richleland/pygments-css/legacy.zip/master</url>
+		<description>Pygments, a Python-based code highlighting tool, comes with a set of builtin styles (not css files) for code highlighting</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>getbase</name>
+		<url>https://github.com/matthewhartman/base/archive/master.zip</url>
+		<description>Lightweight and minimal code. Spend less time overriding styles and focus more time on creating beautiful website applications</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>profoundgrid</name>
+		<url>https://github.com/artofrawr/profoundgrid/archive/master.zip</url>
+		<description>A responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>wirefy</name>
+		<url>https://codeload.github.com/cjdsie/wirefy/zip/master</url>
+		<description>Build intuitive, powerful wireframes for smarter web development</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>kube-css</name>
+		<url>https://codeload.github.com/imperavi/kube/zip/master</url>
+		<description>Kube is a web framework for professional developers and designers alike</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>littlebox</name>
+		<url>https://github.com/cmaddux/littlebox/archive/master.zip</url>
+		<description>Super simple to implement, CSS-only icons</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>css-toogle-switch</name>
+		<url>https://github.com/ghinda/css-toggle-switch/archive/master.zip</url>
+		<description>Accessible CSS toggle switch using standard form controls</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>kickoff</name>
+		<url>https://github.com/TryKickoff/kickoff/archive/master.zip</url>
+		<description> A lightweight front-end framework for creating scalable, responsive sites</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>csscritic</name>
+		<url>https://codeload.github.com/cburgmer/csscritic/legacy.zip/master</url>
+		<description>A lightweight framework for regression testing of Cascading Style Sheets</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>clearless</name>
+		<url>https://github.com/clearleft/clearless/zipball/master</url>
+		<description>A collection of reusable LESS mixins</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>cascadeframework</name>
+		<url>https://codeload.github.com/jslegers/cascadeframework/zip/master</url>
+		<description>Although the overall look and feel are most definitely inspired by Twitter Bootstrap, Cascade framework is not just another Bootstrap clone</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>ingrid</name>
+		<url>https://codeload.github.com/robertpiira/ingrid/zip/master</url>
+		<description>A fluid CSS layout system</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>chewing-grid.css</name>
+		<url>https://codeload.github.com/tzi/chewing-grid.css/zip/master</url>
+		<description>A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>beautons</name>
+		<url>https://raw.github.com/csswizardry/beautons/master/beautons.css</url>
+		<description>A beautifully simple button toolkit</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>pigeon-css</name>
+		<url>https://github.com/rowanmanning/pigeon/archive/master.zip</url>
+		<description>Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>blaze-css</name>
+		<url>https://codeload.github.com/BlazeCSS/Blaze/zip/master</url>
+		<description>Open source modular CSS toolkit providing great structure for building websites quickly</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>natuive</name>
+		<url>https://codeload.github.com/radogado/natuive/zip/gh-pages</url>
+		<description>Lightweight, feature-heavy front-end framework</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>sencss</name>
+		<url>https://codeload.github.com/Kilian/sencss/zip/master</url>
+		<description>The sensible standards CSS baseline</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>salsa</name>
+		<url>https://github.com/tsi/Salsa/zipball/master</url>
+		<description>Syntactically Awesome Layout System</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>simple.ui</name>
+		<url>https://github.com/paranoida/simple-ui/zipball/master</url>
+		<description>Nope, it's not another framework. This is a set of the most popular components used in many web applications</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>xpressio</name>
+		<url>https://github.com/dreyacosta/xpressio/archive/master.zip</url>
+		<description>Just a small and fast tool to design your website</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>rocket-propel</name>
+		<url>https://codeload.github.com/chrishumboldt/Rocket-Propel/zip/master</url>
+		<description>A lightweight SASS mixin library and responsive CSS layout engine</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>cascadeframeworklight</name>
+		<url>https://codeload.github.com/jslegers/cascadeframeworklight/zip/master</url>
+		<description>Cascade Framework gives you a perfect balance between lots of features and a lightweigt footprint</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>scrollzip</name>
+		<url>https://codeload.github.com/tinywall/scrollzip/zip/master</url>
+		<description>jQuery plugin to trigger functions when element/content becomes visibile/hidden while scrolling</description>
+		<category>JavaScript</category>
+	</package>
+	<package>
+		<name>flexgrid</name>
+		<url>https://codeload.github.com/afropolymath/flexgrid/zip/master</url>
+		<description>Flexgrid is a flexbox based CSS Layout System. It's simple and easy to use and can be used on it's own or with any other CSS framework</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>rocket-button</name>
+		<url>https://codeload.github.com/chrishumboldt/Rocket-Button/zip/master</url>
+		<description>A lightweight, universal button module</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>amazium</name>
+		<url>https://github.com/OwlyStuff/Amazium/releases/latest</url>
+		<description>A minimalist CSS framework</description>
+		<category>CSS</category>
+	</package>
+	<package>
+		<name>awsm.css</name>
+		<url>https://github.com/igoradamenko/awsm.css/archive/master.zip</url>
+		<description>Simple CSS library for semantic HTML markup</description>
+		<category>CSS</category>
+	</package>
+</packages>
